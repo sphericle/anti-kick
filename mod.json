@@ -1,5 +1,5 @@
 {
-	"geode": "4.3.1",
+	"geode": "4.4.0",
 	"gd": {
 		"win": "2.2074",
 		"android": "2.2074",
@@ -8,7 +8,7 @@
 	},
 	"id": "sphericle.anti-kick",
 	"name": "Anti-Kick",
-	"version": "v1.0.0",
+	"version": "v1.0.1",
 	"developer": "sphericle",
 	"description": "Prevents the GD Anticheat from kicking you out of a level",
 	"links": {
